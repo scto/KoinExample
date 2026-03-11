@@ -1,6 +1,6 @@
 [versions]
 agp = "8.13.1"
-androidx-activityCompose = "1.9.3"
+androidx-activityCompose = "1.13.0"
 androidx-ui-tooling = "1.9.5"
 compose-plugin = "1.7.1"
 kamel = "0.9.4"
